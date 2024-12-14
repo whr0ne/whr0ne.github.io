@@ -20,7 +20,8 @@ async function notifyTelegram(text) {
 
     const token = '7703190779:AAFJl-4ZvQBr7jn74P7Va7CvV9LAldDN_ig';
 
-    const chatId = '7512250437';
+    const chatId = '-4756280443'
+';
 
     const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
